@@ -64,8 +64,8 @@ sentiment_analyser = pipeline("sentiment-analysis")
 
 emotional_analyser = pipeline("text-classification", model="bhadresh-savani/distilbert-base-uncased-emotion")
 
-**
-Evaluation Metrics:**
+**Evaluation Metrics:**
+
 We compared predicted sentiments against the true labels using:
 
 Accuracy, Precision, Recall, F1 Score, Confusion Matrix
