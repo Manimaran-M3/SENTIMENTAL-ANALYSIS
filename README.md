@@ -1,4 +1,5 @@
-Sentiment Analysis Project
+###Sentiment Analysis Project###
+
 This project analyzes the subject lines of customer complaint tickets raised in a banking system to predict both sentiment (positive or negative) and emotions (like anger, sadness, joy, etc.). The goal is to understand customer feedback better and prioritize responses based on emotional tone and urgency.
 
 Project Overview
